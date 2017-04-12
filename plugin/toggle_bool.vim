@@ -31,6 +31,3 @@ endfunction
 "  Expose our commands to the user
 " --------------------------------
 command! ToggleBool call TemplateExample()
-
-" key mapping
-noremap <leader>r :ToggleBool<CR>
